@@ -2,3 +2,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# EDITOR Configs
+# PyCharm
+.idea
+# VS Code
+.vscode
