@@ -8,3 +8,5 @@ _site/
 .idea
 # VS Code
 .vscode
+
+.DS_Store
