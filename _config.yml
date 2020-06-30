@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: "{~ VAIBHAV JAIN ~}"
+title: "~{ VAIBHAV JAIN }~"
 logo: /assets/img/logo.jpg
 description: Self-starter | Full-stack developer | 24/7 remote
+repository: vaibhav-jain/vaibhav-jain.github.io
