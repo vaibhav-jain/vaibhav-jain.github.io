@@ -35,6 +35,10 @@ I help them in design, development, execution, and
 scaling from idea to launch.
 ```
 
+## My Blog :pencil:
+
+> ==>[This way](posts.html)
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]

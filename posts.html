@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h1>Welcome to my blog!</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <p>
+      <img src="{{ post.image }}"/>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      {% if page.tags %}
+        <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+      {% endif %}
+    </p>
+  {% endfor %}
+</ul>
