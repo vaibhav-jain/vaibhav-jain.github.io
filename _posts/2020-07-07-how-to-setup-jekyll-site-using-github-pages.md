@@ -4,11 +4,11 @@ comments: true
 author: Vaibhav Jain
 tag: ["Jekyll", "Github", "Blog"]
 image: /../assets/img/github_jekyll.jpg
-description: "A ton of text to test readability."
+description: "Setup free blog/portfolio using github pages"
 title: "How to setup Jekyll site using github pages"
 ---
 
-![github_jekyll](/../assets/img/github_jekyll.jpg/400x200)
+![github_jekyll](/../assets/img/github_jekyll.jpg)
 
 ## Background
 
