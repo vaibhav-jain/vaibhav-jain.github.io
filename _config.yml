@@ -1,7 +1,28 @@
-theme: jekyll-theme-minimal
-title: "~{ VAIBHAV JAIN }~"
-logo: /assets/img/logo.jpg
-description: Self-starter | Full-stack developer | 24/7 remote
-repository: vaibhav-jain/vaibhav-jain.github.io
+# Site settings
+title: "<strong>VAIBHAV JAIN</strong> - Self-starter | Full-stack developer | 24/7 remote"
+description: "Self-starter | Full-stack developer | 24/7 remote"
+author: Vaibhav Jain
+
+# Social media handles
+twitter_username: JaIn10VaIbHaV
+github_username: vaibhav-jain
+linkedin_username: iamvaibhavjain
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vaibhav-jain.github.io/" # the base hostname & protocol for your site
+
+google_analytics_id: UA-46335123-1
+disqus_id: jainvaibhav
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title.html
+
+sass:
+    style: compressed
+
+exclude: [vendor]
+
 plugins:
   - jemoji
