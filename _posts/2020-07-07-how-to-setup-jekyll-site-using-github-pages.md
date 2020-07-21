@@ -1,10 +1,14 @@
 ---
+layout: post
+comments: true
 author: Vaibhav Jain
 tag: ["Jekyll", "Github", "Blog"]
 image: /../assets/img/github_jekyll.jpg
+description: "A ton of text to test readability."
+title: "How to setup Jekyll site using github pages"
 ---
 
-![github_jekyll](/../assets/img/github_jekyll.jpg)
+![github_jekyll](/../assets/img/github_jekyll.jpg/400x200)
 
 ## Background
 
@@ -16,32 +20,40 @@ that provides hosting for software development and version control using Git
 
 ## Prerequisites
 
-```markdown
+
 • Github account and basic knowledge of Git
+
 • Ruby
+
 • Bundler
+
 • Jekyll
+
 • Passion & Consistency
-```
+
 
 ## Setup
-```markdown
+
 • Login into your Github account
+
 • Click on New button to create a new repository
-• Name the repository as you wish, below I have 
-  mentioned the standard way of doing that 
-  >>  your_gh_username.github.io
+
+• Name the repository as you wish, below I have mentioned the standard way of 
+  doing that
+  
+>  your_gh_username.github.io
+
 • Now, goto repo settings look for Github pages
+
 • Select source, for now select master
+
 • Choose a theme
+
 • Click on Launch automatic page generator and follow
   the instructions
-```
+
 
 ![settings](/../assets/img/Screenshot 2020-07-12 at 8.56.49 PM.png)
 
-## Customise the site
-
-```markdown
+## How to customise the site
 Coming soon
-```
