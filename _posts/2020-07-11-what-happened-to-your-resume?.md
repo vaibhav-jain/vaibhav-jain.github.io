@@ -8,6 +8,8 @@ description: "Have you ever wondered what happened to your resume?"
 title: "What happened to your resume?"
 ---
 
+![resume](/../assets/img/What-Happened-While-Your-Resume-Was-Sleeping.png)
+
 • **Have you ever wondered what happened to your resume?**
 
 • **What happened to the profile links projects link you shared?**
