@@ -2,13 +2,13 @@
 layout: post
 comments: true
 author: Vaibhav Jain
-tag: ["SSO", "Django", "Python", "SAML"]
-image: "/../assets/img/What-Happened-While-Your-Resume-Was-Sleeping.png"
-description: "Have you ever wondered what happened to your resume?"
+tag: ["SSO", "Django", "Python", "SAML", "onelogin"]
+image: "/../assets/img/saml_flow.png"
+description: "Setup SSO/SAML with Django"
 title: "How to use SSO/SAML with Django?"
 ---
 
-![resume](/../assets/img/saml_flow.png)
+![saml](/../assets/img/saml_flow.png)
 
 • **What is SSO/SAML?**
 
